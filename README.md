@@ -14,7 +14,7 @@ Instructions:<br>
 >>b --- incoming  decimal length<br>
 >>function limitRange(inputarea, a, b)<br>
 
-
+-----------------------------------------------------
 
 ## gua.js<br>
  <br>
