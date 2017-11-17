@@ -4,25 +4,25 @@ In the process of doing the project, in order to achieve the needs of finishing 
 -----------------------------------------------------------------------------------------------------------------
 - ## limitRange.js
 
- this file is built due to the needs of limiting input range in mobile web.
+  this file is built due to the needs of limiting input range in mobile web.
 
- Instructions:
- ```javascript
- // this function depends on jquery.
- // paremeter:
- //  inputarea --- incoming [input]element
- //  a --- incoming integer length
- //  b --- incoming  decimal length
- //  function limitRange(inputarea, a, b)
- ```
+  Instructions:
+  ```javascript
+  // this function depends on jquery.
+  // paremeter:
+  //  inputarea --- incoming [input]element
+  //  a --- incoming integer length
+  //  b --- incoming  decimal length
+  //  function limitRange(inputarea, a, b)
+  ```
 
 - ## gua.js
 
-this document has achieved 'guaguale' function in mobile web.
+  this document has achieved 'guaguale' function in mobile web.
 
-Instructions:
-```javascript
-// this function is independent.
-// paremeter:
-//  直接调用 gua.createCanvas(canvas, width, height),传入对应的参数 此处canvas需要element的javascript对象
-```
+  Instructions:
+  ```javascript
+  // this function is independent.
+  // paremeter:
+  //  直接调用 gua.createCanvas(canvas, width, height),传入对应的参数 此处canvas需要element的javascript对象
+  ```
