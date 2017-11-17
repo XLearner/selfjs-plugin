@@ -16,7 +16,7 @@ Instructions:<br>
    //  function limitRange(inputarea, a, b)
 ```
 
-- ## gua.js<br>
+   - ## gua.js<br>
     <br>
    this document has achieved 'guaguale' function in mobile web.<br>
    <br>
