@@ -9,7 +9,7 @@ In the process of doing the project, in order to achieve the needs of finishing 
   Instructions:
   ```javascript
   // this function depends on jquery.
-  // paremeter:
+  // parameter:
   //  inputarea --- incoming [input]element
   //  a --- incoming integer length
   //  b --- incoming  decimal length
@@ -23,6 +23,6 @@ In the process of doing the project, in order to achieve the needs of finishing 
   Instructions:
   ```javascript
   // this function is independent.
-  // paremeter:
+  // parameter:
   //  直接调用 gua.createCanvas(canvas, width, height),传入对应的参数 此处canvas需要element的javascript对象
   ```
