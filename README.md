@@ -7,12 +7,14 @@ In the process of doing the project, in order to achieve the needs of finishing 
 this file is built due to the needs of limiting input range in mobile web.<br>
 <br>
 Instructions:<br>
->this function depends on jquery.<br>
->paremeter:<br>
->>inputarea --- incoming [input]element<br>
->>a --- incoming integer length<br>
->>b --- incoming  decimal length<br>
->>function limitRange(inputarea, a, b)
+```javascript
+   this function depends on jquery.
+   paremeter:
+       inputarea --- incoming [input]element
+       a --- incoming integer length
+       b --- incoming  decimal length
+       function limitRange(inputarea, a, b)
+```
 
 ## gua.js<br>
  <br>
