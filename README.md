@@ -13,7 +13,9 @@ Instructions:<br>
 >>a --- incoming integer length<br>
 >>b --- incoming  decimal length<br>
 >>function limitRange(inputarea, a, b)<br>
-<br>
+
+
+
 ## gua.js<br>
 <br>
 this document has achieved 'guaguale' function in mobile web.<br>
