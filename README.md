@@ -3,21 +3,21 @@ In the process of doing the project, in order to achieve the needs of finishing 
 
 -----------------------------------------------------------------------------------------------------------------
 - ## limitRange.js<br>
- <br>
-this file is built due to the needs of limiting input range in mobile web.<br>
-<br>
-Instructions:<br>
-```javascript
-   // this function depends on jquery.
-   // paremeter:
-   //  inputarea --- incoming [input]element
-   //  a --- incoming integer length
-   //  b --- incoming  decimal length
-   //  function limitRange(inputarea, a, b)
-```
-
-   - ## gua.js<br>
     <br>
+   this file is built due to the needs of limiting input range in mobile web.<br>
+   <br>
+   Instructions:<br>
+   ```javascript
+      // this function depends on jquery.
+      // paremeter:
+      //  inputarea --- incoming [input]element
+      //  a --- incoming integer length
+      //  b --- incoming  decimal length
+      //  function limitRange(inputarea, a, b)
+   ```
+
+- ## gua.js<br>
+   <br>
    this document has achieved 'guaguale' function in mobile web.<br>
    <br>
    Instructions:<br>
