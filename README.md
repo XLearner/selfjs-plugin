@@ -17,8 +17,9 @@ Instructions:<br>
 
 
 ## gua.js<br>
-<br>
+ <br>
 this document has achieved 'guaguale' function in mobile web.<br>
+<br>
 Instructions:<br>
 >this function is independent.<br>
 >parameter:<br>
