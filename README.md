@@ -16,13 +16,13 @@ Instructions:<br>
    //  function limitRange(inputarea, a, b)
 ```
 
-## gua.js<br>
- <br>
-this document has achieved 'guaguale' function in mobile web.<br>
-<br>
-Instructions:<br>
-```javascript
-   // this function is independent.
-   // paremeter:
-   //  直接调用 gua.createCanvas(canvas, width, height),传入对应的参数 此处canvas需要element的javascript对象
-```
+   ## gua.js<br>
+    <br>
+   this document has achieved 'guaguale' function in mobile web.<br>
+   <br>
+   Instructions:<br>
+   ```javascript
+      // this function is independent.
+      // paremeter:
+      //  直接调用 gua.createCanvas(canvas, width, height),传入对应的参数 此处canvas需要element的javascript对象
+   ```
