@@ -8,12 +8,12 @@ this file is built due to the needs of limiting input range in mobile web.<br>
 <br>
 Instructions:<br>
 ```javascript
-   this function depends on jquery.
-   paremeter:
-       inputarea --- incoming [input]element
-       a --- incoming integer length
-       b --- incoming  decimal length
-       function limitRange(inputarea, a, b)
+   // this function depends on jquery.
+   // paremeter:
+   //  inputarea --- incoming [input]element
+   //  a --- incoming integer length
+   //  b --- incoming  decimal length
+   //  function limitRange(inputarea, a, b)
 ```
 
 ## gua.js<br>
@@ -21,6 +21,8 @@ Instructions:<br>
 this document has achieved 'guaguale' function in mobile web.<br>
 <br>
 Instructions:<br>
->this function is independent.<br>
->parameter:<br>
->>直接调用 gua.createCanvas(canvas, width, height),传入对应的参数 此处canvas需要element的javascript对象
+```javascript
+   // this function is independent.
+   // paremeter:
+   //  直接调用 gua.createCanvas(canvas, width, height),传入对应的参数 此处canvas需要element的javascript对象
+```
